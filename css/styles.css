@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700;900&display=swap');
 :root {
-    --cr-pink: #e98596;
-    --cr-pink-light: #fce5e8;
-    --cr-pink-strong: #e64782;
+    --cr-pink: #d48c14; 
+    --cr-pink-light: #eec04b;
+    --cr-pink-strong: #43382f;
     --cr-grey: #4d4d4d;
     --cr-grey-light: #e6e6e6;
     --cr-pink-obscure: #c01531;
